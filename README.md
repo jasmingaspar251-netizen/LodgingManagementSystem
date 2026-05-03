@@ -1,8 +1,8 @@
-# Lodging Management System
+# Graycious Inn Management System
 
 **OVERVIEW OF THE PROJECT  AND ITS PURPOSE**
 
-The Lodging Management System is a console-based application written in the C programming language that simulates the daily operations of a lodging or hotel business. Its main purpose is to help manage rooms, guest reservations, occupancy status, and waiting guests in an organized and efficient way.
+The Graycious Inn Management System is a console-based application written in the C programming language that simulates the daily operations of a lodging or hotel business. Its main purpose is to help manage rooms, guest reservations, occupancy status, and waiting guests in an organized and efficient way.
 
 The system allows users to:
 
