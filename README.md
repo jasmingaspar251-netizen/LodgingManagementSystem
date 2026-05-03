@@ -1,4 +1,4 @@
-# LodgingManagementSystem
+# Lodging Management System
 
 **OVERVIEW OF THE PROJECT  AND ITS PURPOSE**
 
