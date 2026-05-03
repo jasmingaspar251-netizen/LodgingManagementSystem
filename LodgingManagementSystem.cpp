@@ -1,6 +1,6 @@
 /*
  * ============================================================
- * LODGING MANAGEMENT SYSTEM
+ * GARYCIOUS INN MANAGEMENT SYSTEM
  * CC104: Data Structures and Algorithms - Final Project
  * ============================================================
  *
