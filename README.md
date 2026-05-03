@@ -2,7 +2,18 @@
 
 **OVERVIEW OF THE PROJECT  AND ITS PURPOSE**
 
-The Lodging Management System is a C-based console application designed to manage hotel room operations efficiently. Its main purpose is to automate tasks such as room management, guest check-in/check-out, waitlist handling, room searching, and sorting, helping reduce manual work and improve service efficiency.
+The Lodging Management System is a console-based application written in the C programming language that simulates the daily operations of a lodging or hotel business. Its main purpose is to help manage rooms, guest reservations, occupancy status, and waiting guests in an organized and efficient way.
+
+The system allows users to:
+
+View all available and occupied rooms
+Check guests in and out
+Add new rooms to the system
+Search rooms by room type
+Sort room records
+Manage a guest waitlist when rooms are unavailable
+
+This project demonstrates how core data structures and algorithms can solve real-world business problems such as room allocation, searching, sorting, and queue management.
 
  **THE DATA STRUCTURES AND ALGORITHMS USED, AND WHICH FEATURES THEY SUPPORT**
  
